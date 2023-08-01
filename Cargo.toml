@@ -1,0 +1,8 @@
+[package]
+name = "anytree-test-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = "=1.0.100"
+rust_library = { git = 'https://github.com/gosh-sh/rust_library.git' }
