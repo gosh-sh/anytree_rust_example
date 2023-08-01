@@ -19,7 +19,7 @@ checksum = "62b02a5381cc465bd3041d84623d0fa3b66738b52b8e2fc3bab8ad63ab032f4a"
 [[package]]
 name = "rust_library"
 version = "0.1.0"
-source = "git+https://github.com/SilkovAlexander/rust_library.git#99f8ee9fc688f5a38b85696d0ba3acc30b64511a"
+source = "git+https://github.com/gosh-sh/rust_library.git#099c255c4801d276dcd328a369cbda8b7a97af9e"
 
 [[package]]
 name = "ryu"
