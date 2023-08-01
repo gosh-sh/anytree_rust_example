@@ -29,25 +29,25 @@
       "properties": [
         {
           "name": "commit",
-          "value": "05450be0f4d78c563a5238fb8b48577427a76acb"
+          "value": "e2aa5ce46862657c3473e94b1e614e1460b88036"
         }
       ],
       "hashes": [
         {
           "alg": "MD5",
-          "content": "bf807befcc04d96703db2fe5ac2f4954"
+          "content": "627317da78f62a562232819932a07379"
         },
         {
           "alg": "SHA-1",
-          "content": "9aaa47de6083c41293dbd957dd4b1e39a76fa407"
+          "content": "bc8ea09e625d8dac88d9f829de78ee7e240a9c80"
         },
         {
           "alg": "SHA-256",
-          "content": "daad57009f3a89dd012424bdc285d443aba409cfe6b0c993c3266b43cc22806f"
+          "content": "94346cd280fc9ca8bc00b2813f811d4066f85f37e2bcc765f385afbe37a8b246"
         },
         {
           "alg": "SHA-512",
-          "content": "a7b266897ac2f77c5257d824566e0e0cde40fb67d965b2054c7113d2aeaea760319ac4e99e85b7b4b0c23e4625a6795dd28fd9f7e55e09ca6a9eb108dc3fca45"
+          "content": "aef8df8f77a7ba604a6562c2942c448a4e06fade89050a70b997a9e45462c70a23829f0cef6620b1814b8685991a251ce5a7fd41d698cd262987c96e1ca260e1"
         }
       ]
     },
